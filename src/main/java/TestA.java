@@ -6,7 +6,7 @@
  */
 public class TestA {
     public static void main(String[] args) {
-        String a = new String("aaa");
+        String a = new String("aaaccccc");
         System.out.println(a);
     }
 }
