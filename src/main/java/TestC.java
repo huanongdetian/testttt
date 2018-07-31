@@ -5,4 +5,7 @@
  * @version: 1.0.0
  */
 public class TestC {
+    public static void main(String[] args) {
+        System.out.println("cccc");
+    }
 }
